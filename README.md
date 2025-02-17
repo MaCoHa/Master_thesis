@@ -15,7 +15,7 @@ The ultimate goal is to submit a research paper based on these findings to a wor
 ## 📂 Repository Structure
 
 ```
-📦 study-rbac
+📦 main
  ┣ 📜 README.md            # This file  
  ┣ 📜 thesis.pdf           # The thesis (if public)  
  ┣ 📜 paper-draft.tex      # Research paper draft in LaTeX  
