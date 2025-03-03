@@ -1,0 +1,3 @@
+[submodule "external/RBAC_research_project"]
+	path = external/RBAC_research_project
+	url = https://github.com/MaCoHa/RBAC_research_project.git
